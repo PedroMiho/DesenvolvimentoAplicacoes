@@ -29,6 +29,4 @@ main() async {
     await supabase.dispose();
   }
 
-
-
 }
